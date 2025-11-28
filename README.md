@@ -1,3 +1,8 @@
+Movie-Search-Application
+Developed a movie search web app using React.js that fetches real-time data from the OMDB API. Allows users to search by title and view details like release year and plot. Designed a responsive UI and integrated dynamic data rendering to enhance user experience. Project hosted on GitHub
+
+
+
 # Movie Recommender React App
 
 ![Movie Recommender](https://raw.githubusercontent.com/ShouryaSengar/react-movie-app/main/MovieAppSS.png)
